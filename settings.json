@@ -1,0 +1,48 @@
+{
+  //"files.autoSave": "off",
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "solidity.defaultCompiler": "localNodeModule",
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "[Material Theme Ocean High Contrast]": {}
+  },
+  "prettier.tabWidth": 2,
+  "liveshare.presence": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "go.toolsManagement.autoUpdate": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "go.formatTool": "gofmt",
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "editor.minimap.maxColumn": 80,
+  "editor.minimap.size": "fill",
+  "editor.fontFamily": "monospace, 'Droid Sans Mono'",
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "window.zoomLevel": -2,
+  "editor.tabSize": 2,
+  "editor.fontSize": 15
+  //"window.zoomLevel": 0.5
+}
+
